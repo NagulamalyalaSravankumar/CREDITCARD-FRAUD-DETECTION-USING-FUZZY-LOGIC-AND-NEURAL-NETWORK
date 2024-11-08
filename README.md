@@ -5,4 +5,4 @@ model efficacy, which is evaluated, and then use the credit card data set it is 
 one. The financial institution included true world data set, so it is taking and analyzed. In this
 robustness algorithm additionally evaluate the noise added data samples. This concept is used
 in experiment and then produce the result positively indicate the hybrid method, that is
-majority voting, it provides good accuracy rates in credit card fraud detection
+majority voting, it provides good accuracy rates in credit card fraud detection.
